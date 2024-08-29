@@ -1,0 +1,74 @@
+.img-box img{
+
+    height: auto;
+    max-width: 90%;
+    margin: 5%;
+
+}
+
+.name h6{
+  font-size:70px;
+  font-weight: bolder;
+   
+}
+
+.detail-box {
+    font-size:25px;
+}
+
+.p{
+    font-size:32px;
+    margin: 5%;
+    font-weight: bold;
+}
+ 
+
+.detail-box span{
+    font-size:25px;
+    color: gray;
+}
+
+.bio {
+    font-size:20px;
+    color: gray;
+    margin-inline : 3%;
+}
+.order {
+
+    text-align: center;
+    margin-inline: 40%;
+    width: 20%;
+    font-size: 25px;
+    background-color: black;
+    padding: 10px;
+    display: block;
+    border: 1px solid white;
+    color: white;
+    
+}
+.order:hover{
+    color: black;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.decline{
+    text-align: center;
+    margin-inline: 40%;
+    width: 20%;
+    font-size: 25px;
+    background-color: black;
+    padding: 10px;
+    display: block;
+    border: 1px solid white;
+    color: white;
+
+}
+
+.decline:hover{
+
+    color: black;
+    border: 1px solid black;
+    background-color: white;
+
+}
